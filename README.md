@@ -1,2 +1,2 @@
 # comandoVentoy
-sudo ./Ventoy2Disk.sh -i /portaPenDrive -y
+sudo ./Ventoy2Disk.sh -I /portaPenDrive
